@@ -19,7 +19,7 @@ deploy:
    version: v1
 
 image:
-  repository: devopseasylearning/a1angel-espresso-productcatalog
+  repository: s5carles/espresso-productcatalog
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1.0.0"
