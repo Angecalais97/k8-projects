@@ -32,7 +32,7 @@ cm:
    value2: v2
 
 image:
-  repository: devopseasylearning/a1angel-espresso-reviews
+  repository: s5carles/espresso-reviews
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1.0.0"
