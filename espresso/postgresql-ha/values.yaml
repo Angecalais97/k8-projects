@@ -357,7 +357,7 @@ postgresql:
   ## @param postgresql.password PostgreSQL password
   ## @param postgresql.database PostgreSQL database
   ##
-  username: angel
+  username: carles
   password: "*YIZ8n1Lz2v7rK&amp;1zM(8vT2x)Ipq#GM"
   database: "espresso"
   ## @param postgresql.existingSecret PostgreSQL password using existing secret
